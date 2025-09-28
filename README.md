@@ -1,5 +1,6 @@
 # Terrenos-CisnerosMateo-RojasThais
-Creacion de terrenos
+Creacion de terrenos.
+Para poder visualizar el video se requiere realizar `git-clone` para poder acceder al video.
 
 # Ejecución
 Para ejecutar este mundo se debe realizar un `git-clone` del repositorio a lo que una vez terminado se debe abrir la carpeta llamada `Terrenos` dentro del `Unity Hub` con esto el mundo esta listo en el editor, luego se puede presionar el boton de `play` para poder visualizar la escena con música y con el ángulo de cámara pensado por los creadores.
